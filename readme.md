@@ -13,7 +13,7 @@ PCB made with CadSoft Eagle.
 
 ![Eagle PCB](Images/500_fitepic-1.JPG)
 
-![Eagle PCB](Images/fite-controller-1-main.brd.JPG)
+![Eagle PCB](Images/fite-controller-1-main.brd.png)
 
 Schematic [ page 1](Images/fite-controller-1-main.sch-1.png)
 
