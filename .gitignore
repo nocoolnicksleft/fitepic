@@ -1,0 +1,10 @@
+*.o
+*.err
+*.hex
+*.map
+*.cof
+
+*.s#*
+*.b#*
+
+build/*
